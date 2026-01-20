@@ -5,5 +5,7 @@ Aqui estão reunidos conteúdos básicos relacionados a:
 - Suporte técnico,
 - Manutenção de computadores,
 - Conceitos iniciais de tecnologia
+- 
 Objetivo:
+
 Demosntrar meu processo de aprendizado contínuo e organização de estudos na área de tecnologia.
